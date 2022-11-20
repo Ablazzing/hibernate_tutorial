@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lesson6.lesson;
 
 import lombok.extern.slf4j.Slf4j;
 import org.hibernate.Session;

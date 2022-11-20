@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lesson6.lesson;
 
 import org.hibernate.Hibernate;
 import org.hibernate.Session;
