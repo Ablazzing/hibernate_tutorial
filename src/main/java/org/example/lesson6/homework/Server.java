@@ -3,8 +3,8 @@ package org.example.lesson6.homework;
 import org.example.lesson6.homework.config.HibernateConfig;
 import org.example.lesson6.homework.dao.InstDao;
 import org.example.lesson6.homework.dto.CommentDto;
-import org.example.lesson6.homework.dto.UserDto;
 import org.example.lesson6.homework.dto.PostDto;
+import org.example.lesson6.homework.dto.UserDto;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 
